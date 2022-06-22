@@ -1,0 +1,27 @@
+.red-circle {
+    width: 2em;
+    height: 2em;
+    border-radius: 1em;
+    margin: .5em;
+    background-color: red;
+}.orange-circle {
+    width: 2em;
+    height: 2em;
+    border-radius: 1em;
+    margin: .5em;
+    background-color: orange;
+}.green-circle {
+    width: 2em;
+    height: 2em;
+    border-radius: 1em;
+    margin: .5em;
+    background-color: green;
+}.blue-circle {
+    width: 4em;
+    height: 4em;
+    border-radius: 2em;
+    margin: .5em;
+    background-color: lightblue;
+    fon
+}
+
