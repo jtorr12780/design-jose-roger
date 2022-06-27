@@ -1,10 +1,10 @@
 /*:root {*/
 /*    --icon-size:18px;*/
 /*}*/
-
-
-.container {
+body {
+    margin: 0;
     background: #E6E6E6;
+
 }
 
 .my-row{
@@ -60,3 +60,12 @@
     background-color: #00ABA9;
 }
 
+div.row {
+    border: dotted 1px red;
+}
+div.row {
+    border: dotted 1px blue;
+}
+div.tall-row {
+    height: 300px;
+}
