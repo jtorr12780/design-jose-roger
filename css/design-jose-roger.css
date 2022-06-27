@@ -1,3 +1,7 @@
+/*:root {*/
+/*    --icon-size:18px;*/
+/*}*/
+
 
 .container {
     background: #E6E6E6;
@@ -38,5 +42,21 @@
 .header {
     font-family: 'Anton', sans-serif;
 }
-
+.icon-small {
+    width: 18px;
+    height: 18px;
+   border-radius: 50%;
+    color: black;
+    padding-left: .5em;
+    font-size: 10px;
+}
+.icon-red {
+    background-color: #E6563B;
+}.icon-orange {
+    background-color: #EB9D3A;
+}.icon-green {
+    background-color: #7CB06C;
+}.icon-blue {
+    background-color: #00ABA9;
+}
 
