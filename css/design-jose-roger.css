@@ -63,7 +63,7 @@ body {
 div.row {
     border: dotted 1px red;
 }
-div.row {
+div.col {
     border: dotted 1px blue;
 }
 div.tall-row {
