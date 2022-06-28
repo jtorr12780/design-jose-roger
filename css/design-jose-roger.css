@@ -101,15 +101,15 @@ body {
      color: black;
  }
 
-div.row {
-    border: dotted 1px red;
-}
-div.col {
-    border: dotted 1px blue;
-}
-div.tall-row {
-    height: 300px;
-}
+/*div.row {*/
+/*    border: dotted 1px red;*/
+/*}*/
+/*div.col {*/
+/*    border: dotted 1px blue;*/
+/*}*/
+/*div.tall-row {*/
+/*    height: 300px;*/
+/*}*/
 
 
 
