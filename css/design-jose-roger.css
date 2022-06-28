@@ -7,13 +7,11 @@ body {
 
 }
 
-/*#circle-container {*/
-/*    display: flex;*/
-/*    flex-direction: row;*/
-/*    justify-content: space-around;*/
-/*}*/
+#circle-container {
+    padding-right: 10em;
+}
 
-.my-row{
+.row{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -99,13 +97,17 @@ body {
 }.icon-blue {
     background-color: #00ABA9;
 }
+ .box:hover {
+     color: black;
+ }
 
-/*div.row {*/
-/*    border: dotted 1px red;*/
-/*}*/
-/*div.col {*/
-/*    border: dotted 1px blue;*/
-/*}*/
-/*div.tall-row {*/
-/*    height: 300px;*/
-/*}*/
+div.row {
+    border: dotted 1px red;
+}
+div.col {
+    border: dotted 1px blue;
+}
+div.tall-row {
+    height: 300px;
+}
+
