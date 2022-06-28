@@ -70,6 +70,16 @@ body {
 #container-2 {
     margin-bottom: 1em;
 }
+.hr {
+    display: block;
+    content: "";
+    height: 1px;
+    border: 1px solid darkgray;
+    width: 100%;
+    margin-top: 8vh;
+    margin-bottom: 8vh;
+}
+
 
 
 .icon-small {
@@ -90,12 +100,12 @@ body {
     background-color: #00ABA9;
 }
 
-div.row {
-    border: dotted 1px red;
-}
-div.col {
-    border: dotted 1px blue;
-}
-div.tall-row {
-    height: 300px;
-}
+/*div.row {*/
+/*    border: dotted 1px red;*/
+/*}*/
+/*div.col {*/
+/*    border: dotted 1px blue;*/
+/*}*/
+/*div.tall-row {*/
+/*    height: 300px;*/
+/*}*/
