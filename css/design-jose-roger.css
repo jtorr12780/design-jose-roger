@@ -7,10 +7,17 @@ body {
 
 }
 
+/*#circle-container {*/
+/*    display: flex;*/
+/*    flex-direction: row;*/
+/*    justify-content: space-around;*/
+/*}*/
+
 .my-row{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+
 }
 .box {
     /*background-color: #E6563B;*/
@@ -42,6 +49,29 @@ body {
 .header {
     font-family: 'Anton', sans-serif;
 }
+.side-bar {
+    font-family: 'Anton', sans-serif;
+    font-size: 10px;
+}
+.side-bar-p2 {
+    font-family: 'Abel', sans-serif;
+    font-size: 10px;
+}
+.side-bar-p {
+    font-family: 'Abel', sans-serif;
+    font-size: 16px;
+}
+#container-4 {
+    margin-top: 5em;
+}
+#container-1 {
+    margin-bottom: 1em;
+}
+#container-2 {
+    margin-bottom: 1em;
+}
+
+
 .icon-small {
     width: 18px;
     height: 18px;
